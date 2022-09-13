@@ -1,0 +1,6 @@
+.header {
+    position: sticky;
+    background-color: #fff;
+    z-index: 3;  
+    top: 0;
+}
